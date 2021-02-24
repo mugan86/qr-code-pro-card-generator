@@ -16,5 +16,5 @@ const generateQRImageFile = async (text, name) => {
   }
 
 
-generateQR("http://imharshpatel.com");
+generateQR("https://anartz-mugika.com/");
 generateQRImageFile("https://anartz-mugika.com/", "qr-anartz");
