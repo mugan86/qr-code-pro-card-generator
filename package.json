@@ -1,0 +1,16 @@
+{
+  "name": "qr-code-pro-card",
+  "version": "1.0.0",
+  "description": "Generador de Tarjetas con código QR",
+  "main": "html-pdf.js",
+  "scripts": {
+    "generate-card": "node qr-code-pro-card.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "html-pdf": "^2.2.0",
+    "qrcode": "^1.4.4"
+  }
+}
